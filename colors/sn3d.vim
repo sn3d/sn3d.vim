@@ -37,3 +37,5 @@ call GuiFor("Special", "NONE", "white")
 call GuiFor("Constant", "NONE", "white", "bold")
 call GuiFor("Directory", "NONE", "white", "bold")
 
+call GuiFor("Pmenu", "237", "NONE", "")
+call GuiFor("PmenuSel", "black", "yellow", "")
