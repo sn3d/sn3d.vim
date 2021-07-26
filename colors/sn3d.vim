@@ -33,6 +33,7 @@ call GuiFor("PreProc", "NONE", "cyan")
 call GuiFor("Comment", "NONE", "245")
 
 call GuiFor("Special", "NONE", "white")
+call GuiFor("ColorColumn", "235", "", "")
 
 call GuiFor("Constant", "NONE", "white", "bold")
 call GuiFor("Directory", "NONE", "white", "bold")
